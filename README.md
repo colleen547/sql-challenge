@@ -16,25 +16,6 @@ Data Analysis
 
 Note: You may hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
 
-Before You Begin
-
-
-Create a new repository for this project called sql-challenge. Do not add this homework to an existing repository.
-
-
-Clone the new repository to your computer.
-
-
-Inside your local git repository, create a directory called EmployeeSQL.
-
-
-Add your files to this folder.
-
-
-Push the above changes to GitHub.
-
-
-
 Instructions
 
 Data Modeling

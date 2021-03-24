@@ -19,17 +19,17 @@ Tables were designed to hold data in the CSVs, import the CSVs into a SQL databa
 Note: If you hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
 
 <b>Data Modeling</b>
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
+- Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
 
 <b>Data Engineering</b>
-Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
+- Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
-For the primary keys check to see if the column is unique, otherwise create a composite key. Which takes two primary keys in order to uniquely identify a row.
-Be sure to create tables in the correct order to handle foreign keys.
+  - For the primary keys check to see if the column is unique, otherwise create a composite key. Which takes two primary keys in order to uniquely identify a row.
+  - Be sure to create tables in the correct order to handle foreign keys.
 
 
 
-Import each CSV file into the corresponding SQL table. Note: be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
+- Import each CSV file into the corresponding SQL table. Note: be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
 
 
 

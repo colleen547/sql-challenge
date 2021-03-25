@@ -20,40 +20,40 @@ Imagine you have just been hired as a new Data Engineer and your first major tas
 - The CSVs were inspected and an ERD of the tables was sketched out using http://www.quickdatabasediagrams.com.
 
 <b>Data Engineering</b>
-- Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
+- Using the information obtained, a table schema was created for each of the six CSV files including specifying data types, primary keys, foreign keys, and other constraints.
 
-  - For the primary keys check to see if the column is unique, otherwise create a composite key. Which takes two primary keys in order to uniquely identify a row.
-  - Be sure to create tables in the correct order to handle foreign keys.
+  - For the primary keys, columns were checked to see if the column is unique, otherwise a composite key, which takes two primary keys in order to uniquely identify a row, was created.
+  - Care was taken to create tables in the correct order to handle foreign keys.
 
 
 
-- Import each CSV file into the corresponding SQL table. Note: be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
+- Next each CSV file was imported into the corresponding SQL table, in the same order that the tables were created as well as by accounting for headers, to avoid errors.
 
 
 
 <b>Data Analysis</b>
-Once you have a complete database, the following were created:
+Once the database was complete, the following were created:
 
 
-   1.) Lists the following details of each employee: employee number, last name, first name, sex, and salary.
+   1.) The following details of each employee: employee number, last name, first name, sex, and salary.
 
 
-   2.) Lists first name, last name, and hire date for employees who were hired in 1986.
+   2.) First name, last name, and hire date for employees who were hired in 1986.
 
 
-   3.) Lists the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+   3.) The manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
 
-   4.) Lists the department of each employee with the following information: employee number, last name, first name, and department name.
+   4.) The department of each employee with the following information: employee number, last name, first name, and department name.
 
 
-   5.) Lists first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+   5.) First name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
 
-   6.) Lists all employees in the Sales department, including their employee number, last name, first name, and department name.
+   6.) All employees in the Sales department, including their employee number, last name, first name, and department name.
 
 
-   7.) Lists all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+   7.) All employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 
 In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.

@@ -16,8 +16,6 @@ Tables were designed to hold data in the CSVs, import the CSVs into a SQL databa
    2.) Data Analysis
 
 
-Note: If you hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
-
 <b>Data Modeling</b>
 - Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
 

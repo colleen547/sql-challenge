@@ -3,14 +3,14 @@
 <b>Employee SQL Database: A Mystery in Two Parts</b><br>
 In this project, tables were designed to hold data in CSVs, the CSVs were imported into a SQL database, and questions were answered about the data by performing the following steps:<br> 
 
-<p align="right">
+<p align="left">
    1.) Data Modeling
 
    2.) Data Engineering
 
    3.) Data Analysis
 
-<img src="static/images/Relations_SQL.png" width="300" height="200"/><img style="float:right"></div>
+<img src="static/images/Relations_SQL.png" width="300" height="200"/><img style="float:right">/>
 </p>
 
 <b><i>BACKGROUND SCENARIO</b></i><br>

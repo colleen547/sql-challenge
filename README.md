@@ -49,7 +49,7 @@ Once the database was complete, the following were created:
 
    7.) All employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
  
-   8.) In descending order, the frequency count of employee last names (i.e., how many employees share each last name) was listed.
+   8.) In descending order, the frequency count of employee last names (i.e., how many employees share each last name) was listed.<br>
 <br>
 
 ### <b><i>CONTINUATION OF SCENARIO</b></i><br>
@@ -62,7 +62,7 @@ To confirm, the following steps were taken to generate a visualization of the da
    
    2.) A histogram was created to visualize the most common salary ranges for employees.
 
-   3.) A bar chart was created of average salary by title.
+   3.) A bar chart was created of average salary by title.<br>
 
 
 ### <b><i>EPILOGUE</i></b><br>

@@ -51,7 +51,7 @@ Once the database was complete, the following were created:
  
    8.) In descending order, the frequency count of employee last names (i.e., how many employees share each last name) was listed.
 
-<div align="center"><img src="static/images/boss_and_employee.jfif" width="500" height="300"/></div>
+<div align="center"><img src="static/images/boss_and_employee.jfif" width="400" height="300"/></div>
 
 <b><i>CONTINUED SCENARIO</b></i><br>
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee.<br>
@@ -68,5 +68,5 @@ To confirm, the following steps were taken to generate a visualization of the da
 <b><i>EPILOGUE</i></b><br>
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.<br>
 
-<div align="center"><img src="static/images/employee_photo_id_badge.jfif" width="300" height="300"/></div>
+<div align="center"><img src="static/images/employee_photo_id_badge.jfif" width="250" height="250"/></div>
 

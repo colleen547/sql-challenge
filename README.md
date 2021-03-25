@@ -4,7 +4,7 @@
 <div style="text-align:center"><img src="static/images/Relations_SQL.png" width="500" height="300"/></div>
 
 <b>BACKGROUND SCENARIO</b><br>
-It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files.
+Imagine it's a beautiful spring day, and it's been two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files.
 <br>
 
 Tables were designed to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
@@ -34,7 +34,7 @@ Note: If you hear the term "Data Modeling" in place of "Data Engineering," but t
 
 
 <b>Data Analysis</b>
-Once you have a complete database, do the following:
+Once you have a complete database, the following were created:
 
 
    1.) Lists the following details of each employee: employee number, last name, first name, sex, and salary.

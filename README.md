@@ -9,7 +9,7 @@ In this project, tables were designed to hold data in CSVs, import the CSVs into
 
    3.) Data Analysis
 
-<img style="float:right"><img src="static/images/Relations_SQL.png" width="250" height="250"/></div>
+<img style="float:right"><img src="static/images/Relations_SQL.png" width="500" height="500"/></div>
 
 <b>BACKGROUND SCENARIO</b><br>
 Imagine you have just been hired as a new Data Engineer and your first major task is a research project on employees of the corporation from the 1980s and 1990s, but all that remains of the database of employees from that period are six CSV files.

@@ -22,7 +22,8 @@ Imagine you have just been hired as a new Data Engineer and your first major tas
 <b>Data Engineering</b>
 - Using the information obtained, a table schema was created for each of the six CSV files including specifying data types, primary keys, foreign keys, and other constraints.
 
-  - For the primary keys, columns were checked to see if the column is unique, otherwise a composite key, which takes two primary keys in order to uniquely identify a row, was created.
+  - For the primary keys, columns were checked to identify if columns were unique, otherwise a composite key, which takes two primary keys in order to uniquely identify a row, was created.
+
   - Care was taken to create tables in the correct order to handle foreign keys.
 
 

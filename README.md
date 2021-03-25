@@ -57,8 +57,6 @@ Once the database was complete, the following were created:
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee.<br>
 <div align="center"><img src="static/images/boss_and_employee.jfif" width="400" height="250"/></div><br>
 
-<br>
-
 To confirm, the following steps were taken to generate a visualization of the data:
 
    1.) The SQL database was imported into Pandas. (Yes, the CSVs also could have been read directly in Pandas.) This step required some additional research. 

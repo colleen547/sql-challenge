@@ -8,7 +8,7 @@ In this project, tables were designed to hold data in CSVs, the CSVs were import
    2.) Data Engineering
 
    3.) Data Analysis
-<div align="right"><img src="static/images/Relations_SQL.png" width="400" height="300"/></div>
+<div align="right"><img src="static/images/Relations_SQL.png" width=250" height="250"/></div>
 </br>
 
 <b><i>BACKGROUND SCENARIO</b></i><br>

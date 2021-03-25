@@ -3,7 +3,6 @@
 <b>Employee SQL Database: A Mystery in Two Parts</b><br>
 In this project, tables were designed to hold data in CSVs, the CSVs were imported into a SQL database, and questions were answered about the data by performing the following steps:<br> 
 
-<p align="left">
    1.) Data Modeling
 
    2.) Data Engineering
@@ -11,7 +10,6 @@ In this project, tables were designed to hold data in CSVs, the CSVs were import
    3.) Data Analysis
 
 <img src="static/images/Relations_SQL.png" width="300" height="200"/><img style="float:right">/>
-</p>
 
 <b><i>BACKGROUND SCENARIO</b></i><br>
 Imagine you have just been hired as a new Data Engineer and your first major task is a research project on employees of the corporation from the 1980s and 1990s, but all that remains of the database of employees from that period are six CSV files.

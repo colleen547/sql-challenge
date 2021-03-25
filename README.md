@@ -11,7 +11,7 @@ In this project, tables were designed to hold data in CSVs, the CSVs were import
 <div align="center"><img src="static/images/Relations_SQL.png" width="350" height="250"/></div>
 </br>
 
-<b><i>BACKGROUND SCENARIO</b></i><br>
+### <b><i>BACKGROUND SCENARIO</b></i><br>
 Imagine you have just been hired as a new Data Engineer and your first major task is a research project on employees of the corporation from the 1980s and 1990s, but all that remains of the database of employees from that period are six CSV files.<br>
 <br>
 
@@ -52,7 +52,7 @@ Once the database was complete, the following were created:
 
 <div align="center"><img src="static/images/boss_and_employee.jfif" width="400" height="250"/></div>
 
-<b><i>CONTINUATION OF SCENARIO</b></i><br>
+### <b><i>CONTINUATION OF SCENARIO</b></i><br>
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee.<br>
 <>
 To confirm, the following steps were taken to generate a visualization of the data:
@@ -64,7 +64,7 @@ To confirm, the following steps were taken to generate a visualization of the da
    3.) A bar chart was created of average salary by title.
 
 
-<b><i>EPILOGUE</i></b><br>
+### <b><i>EPILOGUE</i></b><br>
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.<br>
 
 <div align="left"><img src="static/images/employee_photo_id_badge.jfif" width="250" height="250"/></div>

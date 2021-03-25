@@ -50,11 +50,12 @@ Once the database was complete, the following were created:
  
    8.) In descending order, the frequency count of employee last names (i.e., how many employees share each last name) was listed.
 
-<div align="center"><img src="static/images/boss_and_employee.jfif" width="400" height="250"/></div>
+<br>
+<br>
 
 ### <b><i>CONTINUATION OF SCENARIO</b></i><br>
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee.<br>
-<br>
+<div align="center"><img src="static/images/boss_and_employee.jfif" width="400" height="250"/></div>
 <br>
 To confirm, the following steps were taken to generate a visualization of the data:
 

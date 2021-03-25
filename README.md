@@ -17,15 +17,6 @@ In this project, tables were designed to hold data in CSVs, import the CSVs into
 Imagine you have just been hired as a new Data Engineer and your first major task is a research project on employees of the corporation from the 1980s and 1990s, but all that remains of the database of employees from that period are six CSV files.
 <br>
 
-Tables were designed to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
-
-
-   1.) Data Engineering
-
-
-   2.) Data Analysis
-
-
 <b>Data Modeling</b>
 - Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
 

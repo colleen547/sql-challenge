@@ -1,7 +1,7 @@
 # colleen547-sql-challenge
 
 Employee SQL Database: A Mystery in Two Parts
-<div style="text-align:center"><img src="static/images/Relations_SQL.png" width="1000" height="300"/></div>
+<div style="text-align:center"><img src="static/images/Relations_SQL.png" width="500" height="300"/></div>
 
 <b>BACKGROUND</b><br>
 It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files.

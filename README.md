@@ -28,37 +28,30 @@ Imagine you have just been hired as a new Data Engineer and your first major tas
 
 
 
-- Next each CSV file was imported into the corresponding SQL table, in the same order that the tables were created as well as by accounting for headers, to avoid errors.
+- Next each CSV file was imported into the corresponding SQL table in the same order that the tables were created and by accounting for headers to avoid errors.
 
 
 
 <b>Data Analysis</b>
 Once the database was complete, the following were created:
 
-
    1.) The following details of each employee: employee number, last name, first name, sex, and salary.
-
 
    2.) First name, last name, and hire date for employees who were hired in 1986.
 
-
    3.) The manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
-
 
    4.) The department of each employee with the following information: employee number, last name, first name, and department name.
 
-
    5.) First name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
-
    6.) All employees in the Sales department, including their employee number, last name, first name, and department name.
-
 
    7.) All employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
  
    8.) In descending order, the frequency count of employee last names (i.e., how many employees share each last name) was listed.
 
-<b>Bonus (Optional)</b>
+<b>Bonus Analysis</b>
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
 
 

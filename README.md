@@ -12,7 +12,7 @@ In this project, tables were designed to hold data in CSVs, the CSVs were import
 </br>
 
 <b><i>BACKGROUND SCENARIO</b></i><br>
-Imagine you have just been hired as a new Data Engineer and your first major task is a research project on employees of the corporation from the 1980s and 1990s, but all that remains of the database of employees from that period are six CSV files.
+Imagine you have just been hired as a new Data Engineer and your first major task is a research project on employees of the corporation from the 1980s and 1990s, but all that remains of the database of employees from that period are six CSV files.<br>
 <br>
 
 <b>Data Modeling</b>
@@ -54,7 +54,7 @@ Once the database was complete, the following were created:
 
 <b><i>CONTINUATION OF SCENARIO</b></i><br>
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee.<br>
-
+<>
 To confirm, the following steps were taken to generate a visualization of the data:
 
    1.) The SQL database was imported into Pandas. (Yes, the CSVs also could have been read directly in Pandas.) This step required some additional research. 

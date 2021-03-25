@@ -11,7 +11,6 @@ Including
 
    3.) Data Analysis
 
-<b>Data Modeling</b>
 <div style="text-align:center"><img src="static/images/Relations_SQL.png" width="500" height="300"/></div>
 
 <b>BACKGROUND SCENARIO</b><br>

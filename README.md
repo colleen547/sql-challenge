@@ -17,7 +17,7 @@ Imagine you have just been hired as a new Data Engineer and your first major tas
 <br>
 
 <b>Data Modeling</b>
-- Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
+- The CSVs were inspected and an ERD of the tables was sketched out using http://www.quickdatabasediagrams.com.
 
 <b>Data Engineering</b>
 - Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
@@ -69,22 +69,16 @@ from sqlalchemy import create_engine
 engine = create_engine('postgresql://localhost:5432/<your_db_name>')
 connection = engine.connect()
 
-
-
-
 Consult SQLAlchemy documentation for more information.
 
 
 If using a password, do not upload your password to your GitHub repository. See https://www.youtube.com/watch?v=2uaTPmNvH0I and https://help.github.com/en/github/using-git/ignoring-files for more information.
 
 
-
-
    2.) Created a histogram to visualize the most common salary ranges for employees.
 
 
    2.) Created a bar chart of average salary by title.
-
 
 
 <b>Epilogue</b><br>

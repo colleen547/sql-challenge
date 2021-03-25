@@ -50,7 +50,6 @@ Once the database was complete, the following were created:
    7.) All employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
  
    8.) In descending order, the frequency count of employee last names (i.e., how many employees share each last name) was listed.
-
 <br>
 
 ### <b><i>CONTINUATION OF SCENARIO</b></i><br>
@@ -67,7 +66,7 @@ To confirm, the following steps were taken to generate a visualization of the da
 
 
 ### <b><i>EPILOGUE</i></b><br>
-:-: Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.<br>
+Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.<br>
 
 <div align="left"><img src="static/images/employee_photo_id_badge.jfif" width="250" height="250"/></div>
 

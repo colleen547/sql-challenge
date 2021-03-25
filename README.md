@@ -1,9 +1,8 @@
 # colleen547-sql-challenge
 
 <b>Employee SQL Database: A Mystery in Two Parts</b><br>
-In this project, tables were designed to hold data in CSVs, import the CSVs into a SQL database, and answer questions about the data.<br> 
+In this project, tables were designed to hold data in CSVs, the CSVs were imported into a SQL database, and questions were answered about the data by performing the following steps:.<br> 
 
-<u>To do so, the following steps were performed:</u>
 
    1.) Data Modeling
 

@@ -22,7 +22,7 @@ Imagine you have just been hired as a new Data Engineer and your first major tas
 <b>Data Engineering</b>
 - Using the information obtained, a table schema was created for each of the six CSV files including specifying data types, primary keys, foreign keys, and other constraints.
 
-  - For the primary keys, columns were checked to identify if columns were unique, otherwise a composite key, which takes two primary keys in order to uniquely identify a row, was created.
+  - For the primary keys, columns were checked to identify if columns were unique, otherwise a composite key, which takes two primary keys in order to uniquely identify a row, were created.
 
   - Care was taken to create tables in the correct order to handle foreign keys.
 
@@ -55,11 +55,8 @@ Once the database was complete, the following were created:
 
 
    7.) All employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
-
-
-In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
-
-
+ 
+   8.) In descending order, the frequency count of employee last names (i.e., how many employees share each last name) was listed.
 
 <b>Bonus (Optional)</b>
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:

@@ -30,9 +30,8 @@ Imagine you have just been hired as a new Data Engineer, and your first major ta
 
 - Next, each CSV file was imported into the corresponding SQL table in the same order that the tables were created and by accounting for headers to avoid errors.
 
-
-
 <b>Data Analysis</b>
+
 Once the database was complete, the following were created:
 
    1.) The following details of each employee: employee number, last name, first name, sex, and salary.

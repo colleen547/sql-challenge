@@ -53,7 +53,7 @@ Once the database was complete, the following were created:
 
 ### <b><i>CONTINUATION OF SCENARIO</b></i><br>
 Upon further examination, a creeping suspicion arises that the dataset is fake. You surmise your boss handed you spurious data to test your data engineering skills as a new employee.<br>
-<div align="center"><img src="static/images/boss_and_employee.jfif" width="400" height="250"/></div><br>
+<div align="center"><img src="static/images/boss_and_employee.jfif" width="300" height="250"/></div><br>
 
 To confirm, the following steps were taken to generate a visualization of the data:
 

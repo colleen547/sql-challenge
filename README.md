@@ -19,6 +19,7 @@ Imagine you have just been hired as a new Data Engineer, and your first major ta
 <b>Data Modeling</b>
 - The CSVs were inspected and an ERD of the tables was sketched out using http://www.quickdatabasediagrams.com.
 
+
 <b>Data Engineering</b>
 - Using the information obtained, a table schema was created for each of the six CSV files including specifying data types, primary keys, foreign keys, and other constraints.
 
@@ -29,6 +30,7 @@ Imagine you have just been hired as a new Data Engineer, and your first major ta
 
 
 - Next, each CSV file was imported into the corresponding SQL table in the same order that the tables were created and by accounting for headers to avoid errors.
+
 
 <b>Data Analysis</b>
 

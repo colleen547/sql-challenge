@@ -9,7 +9,7 @@ In this project, tables were designed to hold data in CSVs, the CSVs were import
 
    3.) Data Analysis
 
-<div align="center"><img src="static/images/SQL_finger_pointing.png" width="350" height="250"/></div>
+<div align="center"><img src="static/images/SQL_finger_touch.png" width="350" height="250"/></div>
 </br>
 
 ### <b><i>BACKGROUND SCENARIO</b></i><br>

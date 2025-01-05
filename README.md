@@ -14,10 +14,8 @@ In this project, tables were designed to hold data in CSVs, the CSVs were import
 ### <b><i>BACKGROUND SCENARIO</b></i><br>
 Imagine you have just been hired as a new Data Engineer, and your first major task is a research project on employees of the corporation from the 1980s and 1990s. However, all that remains of the database of employees from that period are six CSV files.<br>
 <br>
-
 <b>Data Modeling</b>
-- The CSVs were inspected and an ERD of the tables was sketched out using http://www.quickdatabasediagrams.com.
-
+- The CSVs were inspected and an ERD of the tables was sketched out using http://www.quickdatabasediagrams.com.</b>
 
 <b>Data Engineering</b>
 - Using the information obtained, a table schema was created for each of the six CSV files including specifying data types, primary keys, foreign keys, and other constraints.

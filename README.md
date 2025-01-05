@@ -2,7 +2,6 @@
 
 ## <b>Employee SQL Database: A Mystery in Two Parts</b><br>
 In this project, tables were designed to hold data in CSVs, the CSVs were imported into a SQL database, and questions were answered about the data by performing the following steps:<br> 
-
    1.) Data Modeling
 
    2.) Data Engineering
@@ -29,8 +28,10 @@ Imagine you have just been hired as a new Data Engineer, and your first major ta
 
 
 
-- Next, each CSV file was imported into the corresponding SQL table in the same order that the tables were created and by accounting for headers to avoid errors.
+- Next, each CSV file was imported into the corresponding SQL table in the same order that the tables were created and by accounting for headers to avoid errors.</br>
 
+<div align="center"><img src="static/images/SQL_commands.png" width="350" height="250"/></div>
+</br>
 
 <b>Data Analysis</b>
 

@@ -29,7 +29,6 @@ Imagine you have just been hired as a new Data Engineer, and your first major ta
 - Next, each CSV file was imported into the corresponding SQL table in the same order that the tables were created and by accounting for headers to avoid errors.</br>
 
 <div align="center"><img src="static/images/SQL_commands.png" width="350" height="250"/></div>
-</br>
 
 <b>Data Analysis</b>
 
